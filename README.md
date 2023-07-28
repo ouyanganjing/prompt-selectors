@@ -1,1 +1,1 @@
-# prompt-selectors
+sd-webui-prompt
